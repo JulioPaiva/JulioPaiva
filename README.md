@@ -43,12 +43,12 @@
 ### Frontend  
 <a href="https://github.com/tayyabadev">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
         
-### Languages
+### Linguagens
 <a href="https://github.com/tayyabadev">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=js,python,&perline=4" /> 
@@ -57,10 +57,10 @@
 
 </td><td valign="top" width="25%">
   
-### Others
+### Outros
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,vscode,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,vscode,node,djangovscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
