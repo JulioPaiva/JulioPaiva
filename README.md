@@ -36,11 +36,9 @@
 
 - Em construção
 
-## Skill Set:
+## Habilidades:
 
 <table><tr><td valign="top" width="25%">
-
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,gitlab,mongodb,mysql,postgres,redis,sqlite,python,django,fastapi,nodejs,express,html,css,js,jquery,bootstrap,docker,firebase,grafana,linux,ubuntu,gmail,ai,instagram,obsidian,postman,raspberrypi,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,gitlab,mongodb,mysql,postgres,redis,sqlite,python,django,fastapi,nodejs,express,html,css,js,jquery,bootstrap,docker,firebase,grafana,linux,ubuntu,gmail,ai,instagram,obsidian,postman,raspberrypi,vscode)](#)
 
 </tr></table>
