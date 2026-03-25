@@ -40,28 +40,7 @@
 
 <table><tr><td valign="top" width="25%">
 
-### Frontend  
-<a href="https://github.com/tayyabadev">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
-        
-### Linguagens
-<a href="https://github.com/tayyabadev">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=js,python,&perline=4" /> 
-</div>
-</a>
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,gitlab,mongodb,mysql,postgres,redis,sqlite,python,django,fastapi,nodejs,express,html,css,js,jquery,bootstrap,docker,firebase,grafana,linux,ubuntu,gmail,ai,instagram,obsidian,postman,raspberrypi,vscode)](https://skillicons.dev)
 
-</td><td valign="top" width="25%">
-  
-### Outros
-<a href="https://github.com/tayyabadev">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,vscode,node,djangovscodeqt&perline=4" /> 
-</div>
-</a>
-</td>
 </tr></table>
